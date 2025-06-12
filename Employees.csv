@@ -1,0 +1,10 @@
+﻿EmployeeID,TitleOfCourtesy,Name,Title,ReportsTo,City,Country
+1,Ms.,Davolio Nancy,Sales Representative,2,Seattle,USA
+2,Dr.,Fuller Andrew,"Vice President, Sales",0,Tacoma,USA
+3,Ms.,Leverling Janet,Sales Representative,2,Kirkland,USA
+4,Mrs.,Peacock Margaret,Sales Representative,2,Redmond,USA
+5,Mr.,Buchanan Steven,Sales Manager,2,London,UK
+6,Mr.,Suyama Michael,Sales Representative,5,London,UK
+7,Mr.,King Robert,Sales Representative,5,London,UK
+8,Ms.,Callahan Laura,Inside Sales Coordinator,2,Seattle,USA
+9,Ms.,Dodsworth Anne,Sales Representative,5,London,UK
